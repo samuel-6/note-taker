@@ -2,7 +2,7 @@
 
 ## Description
 
-The Note Taker Application is a simple, yet effective way to manage and organize your notes online. Built as a part of my learning journey, the primary motivation behind this project was to learn about the power and versatility of the Node.js and Express.js frameworks, along with the process of deploying a fully functional application on Heroku.
+The Note Taker application is a simple, yet effective way to manage and organize your notes online. Built as a part of my learning journey, the primary motivation behind this project was to learn about the power and versatility of the Node.js and Express.js frameworks, along with the process of deploying a fully functional application on Heroku.
 
 The application solves the problem of scattered notes and memos, providing a single platform where they can be easily created, accessed, and managed. Throughout the process of building this project, I learned a great deal about server-side scripting, working with Express.js, and hosting an application on Heroku.
 
