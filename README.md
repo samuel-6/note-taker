@@ -1,4 +1,4 @@
-# Note Taker Application
+# Note Taker
 
 ## Description
 
