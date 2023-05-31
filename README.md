@@ -35,7 +35,11 @@ This project was developed by me. You can find me on GitHub at [samuel-6](https:
 
 ## License
 
-This project is licensed under the MIT License. For more information, please refer to [https://choosealicense.com/licenses/mit/](https://choosealicense.com/licenses/mit/).
+This project is licensed under the MIT License. 
+
+![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)
+
+For more information, please refer to [https://choosealicense.com/licenses/mit/](https://choosealicense.com/licenses/mit/).
 
 ## Features
 
